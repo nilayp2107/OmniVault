@@ -1,2 +1,2 @@
 # OmniVault
-OmniVault is an all-inclusive e-commerce platform that offers a wide variety of products to customers worldwide.
+OmniVault is an all-inclusive e-commerce platform that offers a wide variety of products to customers worldwide.This repository contains the codebase for the OmniVault web application, built with modern technologies such as [mention the frontend JavaScript framework and backend technology you selected]. It provides a seamless shopping experience with features like product search, cart management, secure checkout, and order tracking. Join us in revolutionizing the way people shop online with OmniVault.
